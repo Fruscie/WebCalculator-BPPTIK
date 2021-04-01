@@ -9,9 +9,3 @@ Requirements :
 Usage :
 1. buka file index.php pada browser
 
-Directory Structure :
-|
-|- WebCalculator
-|    |-css.css
-|    |-index.php
-|    |-readme.md
